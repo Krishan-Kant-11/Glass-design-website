@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+a{
+    color: #658ec6;
+    font-weight: 500;
+    font-size: 20px;
+    opacity: 0.8;
+    padding-top: 0px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+}
+
 h1{
     color: #426696;
     font-weight: 600;
@@ -126,7 +138,13 @@ main{
 }
 
 .status{
+    font-size: 30px;
     margin-bottom: 3rem;
+    color: #658ec6;
+    font-weight: 500;
+    opacity: 0.8;
+    padding-top: 10px;
+    padding-right: 15px;
 
 }
 
