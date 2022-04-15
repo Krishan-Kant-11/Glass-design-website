@@ -16,6 +16,8 @@ p {
     color: #658ec6;
     font-weight: 500;
     opacity: 0.8;
+    padding-top: 10px;
+    padding-right: 15px;
 }
 
 h3{
@@ -148,6 +150,7 @@ main{
 
 .card{
     display: flex;
+    height: 60px;
     background: linear-gradient(
         to left top, 
         rgba(255, 255, 255, 0.8), 
